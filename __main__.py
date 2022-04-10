@@ -1,6 +1,5 @@
 import sys
-
-from numpy import size
+sys.path.append('src')
 sys.path.append('src/.')
 
 from multiprocessing import Value
