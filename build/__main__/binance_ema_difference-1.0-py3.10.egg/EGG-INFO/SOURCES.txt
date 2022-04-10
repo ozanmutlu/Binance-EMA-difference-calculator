@@ -1,0 +1,12 @@
+setup.py
+binance_ema_difference.egg-info/PKG-INFO
+binance_ema_difference.egg-info/SOURCES.txt
+binance_ema_difference.egg-info/dependency_links.txt
+binance_ema_difference.egg-info/requires.txt
+binance_ema_difference.egg-info/top_level.txt
+src/Alarm.py
+src/Current_Value.py
+src/EmaValue.py
+src/__init__.py
+src/main.py
+src/timeFrameHandler.py
