@@ -2,3 +2,4 @@ PySimpleGUI
 ccxt
 pandas
 ta-lib
+pandas_ta

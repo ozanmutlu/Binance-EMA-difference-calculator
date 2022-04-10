@@ -1,4 +1,0 @@
-PySimpleGUI
-ccxt
-pandas
-talib
