@@ -114,7 +114,7 @@ while True:
         for i in range(rangeNumber):
             if values['Form ' + str(i)] and event == 'Başla':
                 coin = values['Form ' + str(i)]
-                window.read(timeout=1000)
+                window.read(timeout=500)
                 window.perform_long_operation(lambda : CalculatePercentage(i, coin), 'Başla')
         event, values = window.read(timeout=1)
 
