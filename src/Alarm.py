@@ -2,9 +2,9 @@ import winsound
 import time
 
 def alarm():
-    winsound.Beep(200, 250)
+    winsound.Beep(600, 250)
     time.sleep(0.25)
-    winsound.Beep(250, 250)
+    winsound.Beep(750, 250)
 
 def checkalarmStatus(percentageValue, threshold, i, window):
     if abs(percentageValue) > abs(threshold):
